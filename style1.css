@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+#interface{
+
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+    background-image: linear-gradient( black, blue
+    );
+}
+ 
+#simbolo{
+
+
+    }
+
