@@ -10,15 +10,25 @@
 
 header{
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
+    align-items: center;
     width: 100%;
     height: auto;
     background-image: linear-gradient( black, blue
     );
 }
  
-#simbolo{
+#simbolo img{
+  width: 100%;
+  height: auto;
+
+    } /*aplique width de 100% sobre a imagem e não na div*/
 
 
-    }
+.pro{
+   
+}
+
+
 
